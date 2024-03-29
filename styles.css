@@ -1,7 +1,26 @@
 body{
-    background: #122620
+    background: #122620;
 }
-.logo {
+
+.logo {    
     height: 30px;
     width: 250px;
 }
+
+#title {
+    color: antiquewhite;
+}
+
+#check-btn {
+    width: 90px;
+    border: none;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #D6AD60;
+    color: #fff;
+    cursor: pointer;
+  }
+
+  #result {
+    background-color: beige;
+  }
